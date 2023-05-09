@@ -3,7 +3,7 @@
 ## ÍNDICE 
 
 * [1. Intro](https://github.com/YatzirySilcort/CloneGoogle/tree/main#1-intro)
-* [2. Qué construi](https://github.com/YatzirySilcort/CloneGoogle/tree/main#2-que-construi)
+* [2. Qué construí](https://github.com/YatzirySilcort/CloneGoogle/tree/main#2-que-construi)
 * [3. Objetivo del proyecto](https://github.com/YatzirySilcort/CloneGoogle/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
@@ -12,7 +12,7 @@ HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los d�
 
 En este proyecto, con los conocimientos de HTML y CSS realice la interfaz de GOOGLE.
 
-## 2. Que construi
+## 2. Qué construí
 En este proyecto me enfoqué en construir la clonación de la interfaz de Google.
 Contiene las siguientes secciones:
 
