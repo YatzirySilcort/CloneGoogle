@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/YatzirySilcort/CloneGoogle/tree/main#1-intro)
 * [2. Qué construi](https://github.com/YatzirySilcort/CloneGoogle/tree/main#2-que-construi)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/YatzirySilcort/CloneGoogle/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 ## 1. Intro
