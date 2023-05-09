@@ -3,7 +3,7 @@
 ## ÍNDICE 
 
 * [1. Intro](https://github.com/YatzirySilcort/CloneGoogle/tree/main#1-intro)
-* [2. Qué construi](#)
+* [2. Qué construi](https://github.com/YatzirySilcort/CloneGoogle/tree/main#2-que-construi)
 * [3. Objetivo del proyecto](#)
 
 ****
